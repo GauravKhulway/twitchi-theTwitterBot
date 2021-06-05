@@ -1,0 +1,16 @@
+{
+  "name": "twitchi-twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Khulway",
+  "license": "ISC",
+  "dependencies": {
+    "inspirational-quotes": "^1.0.8",
+    "twit": "^2.2.11"
+  }
+}
